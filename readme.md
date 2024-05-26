@@ -1,16 +1,12 @@
 # Cat Travel
-___
 __Cat Travel__ - индивидуальный учебный проект. Это короткая игра-платформер без сюжета с красивыми декорациями. 
 ## Технологии
-___
 + C#
 ## Скриншоты проекта
-___
 ![](MenuPic.png)
 ![](GamePic.png)
 ![](ToBeContPic.png)
 ## Возможности
-___
 Реализованы: 
 + меню; 
 + одна глава игры;
@@ -19,7 +15,6 @@ ___
 Возможно будут добавлены:
 + возможность выключить и включить звук
 ## Комментарии
-___
 Все материалы были созданы не мной, поэтому мне не принадлежат. Ссылки на сайты, где эти материалы были скачаны:
 + [Mossy Cavern by Maaot](https://maaot.itch.io/mossy-cavern)
 + [Pixel Art Woods Tileset and Background by karsiori](https://assetstore.unity.com/packages/2d/environments/pixel-art-woods-tileset-and-background-280066) (Backround)
